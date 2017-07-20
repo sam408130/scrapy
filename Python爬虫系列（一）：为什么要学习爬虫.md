@@ -1,5 +1,7 @@
 ![](http://www.treselle.com/wp-content/uploads/freshizer/1baed853c082fe88880a8215d4cd0bb2_phython-with-Scarpy-863-430-c.jpg)
 
+
+
 在通往全栈程序员的道路上，爬虫是必不可少的一项技术。
 最早在科大讯飞做音乐推荐算法时，爬取网易音乐、豆瓣音乐用来做训练数据和标注集...
 做自然语言处理时，爬取网易新闻的文章作为语料...
